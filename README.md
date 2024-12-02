@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site url](https://product-card-component-rek.netlify.app)
 
 ## My process
 
@@ -45,7 +44,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.frontendmentor.io/profile/rayagnewende)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rayagnewende)
+- Website - [rayagnewende](https://www.frontendmentor.io/profile/rayagnewende)
+- Frontend Mentor - [@rayagnewende](https://www.frontendmentor.io/profile/rayagnewende)
 
 ## Acknowledgments
